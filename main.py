@@ -111,4 +111,4 @@ def encrypt(sentence):
 
 if __name__ == '__main__':
     # Encrypt the sentence
-    encrypt('lexcellenceexcelleenexcel')
+    encrypt('letustestthisencoding')
